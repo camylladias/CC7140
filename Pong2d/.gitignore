@@ -1,0 +1,28 @@
+# Ignore Unity files:
+Temp/
+Library/
+Logs/
+
+# my personal build folder (you can change the name for your personal build folder to ignore it and build files):
+build/ 
+
+*.unitypackage
+*.aab
+*.apk
+*.app
+
+# Ignore Restore files:
+ExportedObj/
+obj/
+
+/*.csproj
+/*.sln
+
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.tmp
